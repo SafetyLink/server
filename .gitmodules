@@ -1,0 +1,18 @@
+[submodule "commons"]
+	path = commons
+	url = https://github.com/SafetyLink/commons
+[submodule "deployments"]
+	path = deployments
+	url = https://github.com/SafetyLink/deployments
+[submodule "proto"]
+	path = proto
+	url = https://github.com/SafetyLink/proto
+[submodule "services/webService"]
+	path = services/webService
+	url = https://github.com/SafetyLink/webService
+[submodule "services/authenticationService"]
+	path = services/authenticationService
+	url = https://github.com/SafetyLink/authenticationService
+[submodule "services/messageService"]
+	path = services/messageService
+	url = https://github.com/SafetyLink/messageService
